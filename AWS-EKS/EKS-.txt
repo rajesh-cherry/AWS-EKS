@@ -1,0 +1,7 @@
+This will guide you how to create EKS Cluster on AWS using Eksctl Command, so that you can have your kubernetes environment on AWS Cloud.
+
+EKS is nothing but Kubernetes+AWS = EKS (Elastic Kubernetes service)
+
+All you need is One Virtual Machine installed with AWS-CLI 
+
+type = t2.micro
