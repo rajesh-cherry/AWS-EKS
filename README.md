@@ -8,13 +8,15 @@ Prerequisties
 Steps Involved
 
 Step 1 : Install EKSctl and kubectl utility
+
 step 2 : Create EKS Cluster Using EKSctl utility
+
 Step 3 : Deploying Demo Application (we will deploy and demo application on top of the eks cluster)
 
 check eksctl command is working or not if command not found download EKSCtl)
 
 ```bash
-kubectl
+eksctl
 ```
 
 Download EKSCtl (https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
