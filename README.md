@@ -32,9 +32,9 @@ check the command again
 ```bash
 eksctl version
 ```
-
+check kubectl command is working or not, if command not found download kubectl
 ```bash
-kubectl (check kubectl command is working or not, if command not found download kubectl)
+kubectl
 ```
 
 Download Kubectl (https://kubernetes.io/docs/tasks/tools/)
